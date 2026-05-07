@@ -1,7 +1,7 @@
 <td width="60%" valign="top" align="left">
   <h3>📖 Professional Overview</h3>
   <p>
-    I am an Assistant Professor in the <b>Department of Computer Systems Engineering (DCSE)</b> 
+    I am an Assistant Professor at the <b>Department of Computer Systems Engineering (DCSE)</b> 
     at the <b>University of Engineering and Technology (UET) Peshawar</b>.
   </p>
   
