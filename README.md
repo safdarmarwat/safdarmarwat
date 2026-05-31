@@ -8,7 +8,7 @@
   <ul>
     <li>🔬 <b>Current Research:</b> IoT, 5G/6G protocols, Cybersecurity and AI.</li>
     <li>🎓 <b>Education:</b> Ph.D. in Communication Networks (Germany), Post-Doc at HBKU (Qatar).</li>
-    <li>🏫 <b>Roles:</b> Principal Investigator (PI), Director Quality Enhancement Cell (QEC).</li>
+    <li>🏫 <b>Roles:</b> Principal Investigator (PI), Editor of Scientific Journal.</li>
   </ul>
   
   <br />
